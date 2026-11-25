@@ -1,0 +1,9 @@
+node_modules/
+dist/
+backend/.venv/
+backend/.env
+backend/__pycache__/
+backend/finsight/__pycache__/
+backend/tests/__pycache__/
+*.py[cod]
+*.log
